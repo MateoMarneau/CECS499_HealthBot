@@ -1,0 +1,72 @@
+[
+  {
+    "user_id": 1,
+    "procedure_type": "knee surgery",
+    "emotion_history": ["anxious", "hopeful"],
+    "last_escalation_flag": false,
+    "message_count": 4
+  },
+  {
+    "user_id": 2,
+    "procedure_type": "hip replacement",
+    "emotion_history": ["worried", "confused"],
+    "last_escalation_flag": true,
+    "message_count": 11
+  },
+  {
+    "user_id": 3,
+    "procedure_type": "appendectomy",
+    "emotion_history": ["nervous", "relieved"],
+    "last_escalation_flag": false,
+    "message_count": 7
+  },
+  {
+    "user_id": 4,
+    "procedure_type": "cataract surgery",
+    "emotion_history": ["curious", "calm"],
+    "last_escalation_flag": false,
+    "message_count": 3
+  },
+  {
+    "user_id": 5,
+    "procedure_type": "heart bypass",
+    "emotion_history": ["scared", "overwhelmed"],
+    "last_escalation_flag": true,
+    "message_count": 15
+  },
+  {
+    "user_id": 6,
+    "procedure_type": "tonsillectomy",
+    "emotion_history": ["frustrated", "hopeful"],
+    "last_escalation_flag": false,
+    "message_count": 6
+  },
+  {
+    "user_id": 7,
+    "procedure_type": "gallbladder removal",
+    "emotion_history": ["confused", "reassured"],
+    "last_escalation_flag": false,
+    "message_count": 8
+  },
+  {
+    "user_id": 8,
+    "procedure_type": "spinal fusion",
+    "emotion_history": ["anxious", "frustrated"],
+    "last_escalation_flag": true,
+    "message_count": 13
+  },
+  {
+    "user_id": 9,
+    "procedure_type": "hernia repair",
+    "emotion_history": ["calm", "grateful"],
+    "last_escalation_flag": false,
+    "message_count": 5
+  },
+  {
+    "user_id": 10,
+    "procedure_type": "ACL reconstruction",
+    "emotion_history": ["impatient", "motivated"],
+    "last_escalation_flag": false,
+    "message_count": 9
+  }
+]
