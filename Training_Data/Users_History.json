@@ -1,0 +1,132 @@
+[
+  {
+    "user_id": 1,
+    "procedure_type": "knee surgery",
+    "emotion_history": ["anxious", "hopeful"],
+    "medical_history": {
+      "chronic_conditions": ["osteoarthritis", "mild hypertension"],
+      "behavioral_health_context": ["situational anxiety before procedures"],
+      "recent_symptoms": ["knee pain with stairs", "sleep disruption from worry"],
+      "current_medications": ["lisinopril", "acetaminophen as needed"],
+      "allergies": ["none known"],
+      "care_notes": "Needs reassurance and step-by-step recovery expectations; responds well to positive progress updates."
+    }
+  },
+  {
+    "user_id": 2,
+    "procedure_type": "hip replacement",
+    "emotion_history": ["worried", "confused"],
+    "medical_history": {
+      "chronic_conditions": ["degenerative joint disease", "type 2 diabetes"],
+      "behavioral_health_context": ["health-literacy support needed during treatment planning"],
+      "recent_symptoms": ["hip stiffness", "fatigue", "difficulty understanding medication timing"],
+      "current_medications": ["metformin", "naproxen as needed"],
+      "allergies": ["penicillin"],
+      "care_notes": "Use plain-language responses and confirm understanding with teach-back style prompts."
+    }
+  },
+  {
+    "user_id": 3,
+    "procedure_type": "appendectomy",
+    "emotion_history": ["nervous", "relieved"],
+    "medical_history": {
+      "chronic_conditions": ["none documented"],
+      "behavioral_health_context": ["short-term procedural anxiety"],
+      "recent_symptoms": ["post-op abdominal soreness", "improving appetite"],
+      "current_medications": ["ibuprofen as needed"],
+      "allergies": ["none known"],
+      "care_notes": "Emotion trend is improving; monitor for pain flare concerns and recovery milestone questions."
+    }
+  },
+  {
+    "user_id": 4,
+    "procedure_type": "cataract surgery",
+    "emotion_history": ["curious", "calm"],
+    "medical_history": {
+      "chronic_conditions": ["age-related cataracts"],
+      "behavioral_health_context": ["low distress, high engagement"],
+      "recent_symptoms": ["blurry vision in low light", "glare sensitivity"],
+      "current_medications": ["prednisolone eye drops", "lubricating drops"],
+      "allergies": ["sulfa"],
+      "care_notes": "Prefers educational explanations and prevention tips; low escalation risk."
+    }
+  },
+  {
+    "user_id": 5,
+    "procedure_type": "heart bypass",
+    "emotion_history": ["scared", "overwhelmed"],
+    "medical_history": {
+      "chronic_conditions": ["coronary artery disease", "hyperlipidemia", "hypertension"],
+      "behavioral_health_context": ["high emotional distress after major cardiac event"],
+      "recent_symptoms": ["chest pressure history", "shortness of breath on exertion", "poor sleep"],
+      "current_medications": ["atorvastatin", "aspirin", "metoprolol"],
+      "allergies": ["none known"],
+      "care_notes": "High-support user; responses should be brief, calming, and include clear emergency-warning reminders."
+    }
+  },
+  {
+    "user_id": 6,
+    "procedure_type": "tonsillectomy",
+    "emotion_history": ["frustrated", "hopeful"],
+    "medical_history": {
+      "chronic_conditions": ["recurrent tonsillitis"],
+      "behavioral_health_context": ["frustration linked to repeated infections"],
+      "recent_symptoms": ["throat pain", "difficulty swallowing", "intermittent fever history"],
+      "current_medications": ["acetaminophen", "hydration protocol"],
+      "allergies": ["none known"],
+      "care_notes": "Validate discomfort first, then guide toward recovery timeline and symptom tracking."
+    }
+  },
+  {
+    "user_id": 7,
+    "procedure_type": "gallbladder removal",
+    "emotion_history": ["confused", "reassured"],
+    "medical_history": {
+      "chronic_conditions": ["cholelithiasis", "GERD"],
+      "behavioral_health_context": ["initial uncertainty improved after education"],
+      "recent_symptoms": ["post-meal abdominal discomfort", "nausea episodes"],
+      "current_medications": ["omeprazole", "ondansetron as needed"],
+      "allergies": ["latex"],
+      "care_notes": "Responds well to diet-focused guidance and clear explanations of normal post-op symptoms."
+    }
+  },
+  {
+    "user_id": 8,
+    "procedure_type": "spinal fusion",
+    "emotion_history": ["anxious", "frustrated"],
+    "medical_history": {
+      "chronic_conditions": ["lumbar disc disease", "chronic back pain"],
+      "behavioral_health_context": ["pain-related anxiety and reduced patience"],
+      "recent_symptoms": ["radiating leg pain", "limited mobility", "poor sleep quality"],
+      "current_medications": ["gabapentin", "cyclobenzaprine as needed"],
+      "allergies": ["none known"],
+      "care_notes": "May need frequent check-ins and coping prompts when pain spikes or progress feels slow."
+    }
+  },
+  {
+    "user_id": 9,
+    "procedure_type": "hernia repair",
+    "emotion_history": ["calm", "grateful"],
+    "medical_history": {
+      "chronic_conditions": ["inguinal hernia (repaired)"],
+      "behavioral_health_context": ["stable mood and high treatment adherence"],
+      "recent_symptoms": ["mild incision tenderness", "improving activity tolerance"],
+      "current_medications": ["ibuprofen as needed"],
+      "allergies": ["none known"],
+      "care_notes": "Likely to follow self-care instructions; focus on safe return-to-activity guidance."
+    }
+  },
+  {
+    "user_id": 10,
+    "procedure_type": "ACL reconstruction",
+    "emotion_history": ["impatient", "motivated"],
+    "medical_history": {
+      "chronic_conditions": ["sports-related ACL tear"],
+      "behavioral_health_context": ["strong recovery drive with risk of overexertion"],
+      "recent_symptoms": ["knee swelling after therapy", "stiffness in morning"],
+      "current_medications": ["naproxen as needed"],
+      "allergies": ["none known"],
+      "care_notes": "Provide progress milestones and caution against accelerating rehab too quickly."
+    }
+  }
+]
